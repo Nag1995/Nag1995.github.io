@@ -9,7 +9,8 @@ tags:
     - VS
 ---
 
-[TOC]
+* auto-gen TOC:
+{:toc}
 
 # 微软Visual Studio
 
@@ -113,6 +114,7 @@ Visual Studio提供宏功能，这些宏能用来在项目属性页中设置目�
 按F11键能逐语句进入函数调用。
 
 在Visual Studio监视窗口中可以使用后缀改变Visual Studio显示数据的方式，
+
 · “,d”后缀强制把值以十进制显示。
 
 · “,x”后缀强制把值以十六进制显示。
